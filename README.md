@@ -5,7 +5,7 @@ This repository shall contain the week-wise lessons, resources and assignments f
 ## Installation
 ### Requirements
 1. Python 3.6 or higher
-2. pip
+2. pip for installing python
 ### Setup Git
 1. First check if Git is already installed. In the terminal / command prompt type: 
   <pre><code>git --version</code></pre>
